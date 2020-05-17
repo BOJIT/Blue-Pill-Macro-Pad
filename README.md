@@ -1,2 +1,2 @@
 # Blue-Pill-Macro-Pad
-Simple Macro pad for STM32F103 Development Board: [https://bojit.github.io/projects/Macro_Pad/]
+Simple macro pad based on the STM32F103c8t6 Blue Pill: [https://bojit.github.io/projects/Macro_Pad/]
